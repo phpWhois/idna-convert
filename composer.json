@@ -21,7 +21,7 @@
         "files": [
             "idna_convert.class.php"
         ]
-    }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "0.8.x-dev"
