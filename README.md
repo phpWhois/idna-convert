@@ -1,12 +1,8 @@
-*******************************************************************************
-*                                                                             *
-*                    IDNA Convert (idna_convert.class.php)                    *
-*                                                                             *
-* http://idnaconv.phlymail.de                     mailto:phlymail@phlylabs.de *
-*******************************************************************************
-* (c) 2004-2014 phlyLabs, Berlin                                              *
-* This file is encoded in UTF-8                                               *
-*******************************************************************************
+IDNA Convert (idna_convert.class.php)
+=====================================
+http://idnaconv.phlymail.de                  mailto:phlymail@phlylabs.de
+
+(c) 2004-2014 phlyLabs, Berlin
 
 Introduction
 ------------
@@ -52,10 +48,15 @@ between the standards. See the updated example 5 below.
 Files
 -----
 idna_convert.class.php         - The actual class
+
 example.php                    - An example web page for converting
+
 transcode_wrapper.php          - Convert various encodings, see below
+
 uctc.php                       - phlyLabs' Unicode Transcoder, see below
+
 ReadMe.txt                     - This file
+
 LICENCE                        - The LGPL licence file
 
 The class is contained in idna_convert.class.php.
