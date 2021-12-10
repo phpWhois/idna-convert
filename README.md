@@ -1,3 +1,6 @@
+ALL CREDS TO ORIGINAL CREATORS.
+Ive just updated it to work with php8
+
 IDNA Convert (idna_convert.class.php)
 =====================================
 http://idnaconv.phlymail.de                  mailto:phlymail@phlylabs.de
